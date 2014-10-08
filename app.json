@@ -1,11 +1,11 @@
 {
 "reponame":"template-blank",
-"title":"Blank App",
-"tooltip":"Use this template to start with a blank HTML Cordova App",
-"description":"Use this template start with a blank HTML Cordova App",
+"title":"Blank Template",
+"tooltip":"Use this template to start with a blank HTML for creating mobile apps",
+"description":"Use this template to start with a blank HTML for creating mobile apps",
 "articleUrl":"http://software.intel.com/en-us/html5/articles/templates-to-get-started-with-html5-mobile-app-development",
 "visible":"true",
 "type":"blankproject",
-"keywords":[""],
+"keywords":["Blank Project"],
 "highlights" : [""]
 }
