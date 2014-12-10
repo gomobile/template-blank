@@ -3,11 +3,13 @@
     "projectSettingsVersion": "1.1",
     "creationData": {
       "type": "Blank Project",
+      "projectTypeName": "com.intel.xdk.projecttype.jsapp",
       "src": "blankproject",
-      "projectGuid": "c0aaa944-1c0e-4553-a114-093d90dd0cfb",
+      "projectGuid": "00000000-0000-0000-0000-000000000000",
       "lastModifiedDate": 1412271757336,
       "creationDate": 1412271757270
     },
+    "XDK-app-designer": "false",
     "sourceDirectory": "www",
     "startFile": "index.html",
     "projectFiles": {},
@@ -30,22 +32,7 @@
     ],
     "serviceMethods": [],
     "cordovaPluginsDirectory": "plugins",
-    "cordovaPlugins": [
-      {
-        "id": "org.apache.cordova.device",
-        "version": "0.2.9",
-        "selectedState": "Auto",
-        "data": {},
-        "paramvals": {}
-      },
-      {
-        "id": "org.apache.cordova.splashscreen",
-        "version": "0.3.0",
-        "selectedState": "Auto",
-        "data": {},
-        "paramvals": {}
-      }
-    ],
+    "cordovaPlugins": [],
     "buildConfigurations": {
       "Android": {
         "platform_": "android",
@@ -56,8 +43,8 @@
           "android-targetSdkVersion": "19"
         },
         "isActive_": true,
-        "appName_": "blank",
-        "appID_": "not.yet.specified",
+        "appName_": "Blank Intel XDK Template",
+        "appID_": "xdk.intel.blank.template",
         "appAccess_": "*",
         "icons_": [],
         "splashes_": [],
@@ -67,7 +54,7 @@
         "cordovaCLIVersion_": "3.5",
         "crosswalkVersion_": "stable",
         "appVersion_": "0.0.1",
-        "appDescription_": "",
+        "appDescription_": "Use this template to start with a simple index.html file for creating mobile apps.",
         "appAuthor_": "",
         "appVersionCode_": "1"
       },
@@ -80,8 +67,8 @@
           "android-targetSdkVersion": "19"
         },
         "isActive_": true,
-        "appName_": "blank",
-        "appID_": "not.yet.specified",
+        "appName_": "Blank Intel XDK Template",
+        "appID_": "xdk.intel.blank.template",
         "appAccess_": "*",
         "icons_": [],
         "splashes_": [],
@@ -91,7 +78,7 @@
         "cordovaCLIVersion_": "3.5",
         "crosswalkVersion_": "stable",
         "appVersion_": "0.0.1",
-        "appDescription_": "",
+        "appDescription_": "Use this template to start with a simple index.html file for creating mobile apps.",
         "appAuthor_": "",
         "appVersionCode_": "1"
       },
@@ -104,8 +91,8 @@
           "ios-configuration": "adhoc"
         },
         "isActive_": true,
-        "appName_": "blank",
-        "appID_": "not.yet.specified",
+        "appName_": "Blank Intel XDK Template",
+        "appID_": "xdk.intel.blank.template",
         "appAccess_": "*",
         "icons_": [],
         "splashes_": [],
@@ -115,7 +102,7 @@
         "cordovaCLIVersion_": "3.5",
         "crosswalkVersion_": "stable",
         "appVersion_": "0.0.1",
-        "appDescription_": ""
+        "appDescription_": "Use this template to start with a simple index.html file for creating mobile apps."
       },
       "Windows8": {
         "platform_": "windows8",
@@ -126,8 +113,8 @@
           "windows-publisher-id": ""
         },
         "isActive_": true,
-        "appName_": "blank",
-        "appID_": "xdk.intel.blank.project",
+        "appName_": "Blank Intel XDK Template",
+        "appID_": "xdk.intel.blank.template",
         "appAccess_": "*",
         "icons_": [],
         "splashes_": [],
@@ -137,7 +124,7 @@
         "cordovaCLIVersion_": "3.5",
         "crosswalkVersion_": "stable",
         "appVersion_": "0.0.0.1",
-        "appDescription_": ""
+        "appDescription_": "Use this template to start with a simple index.html file for creating mobile apps."
       },
       "WindowsPhone8": {
         "platform_": "wp8",
@@ -145,8 +132,8 @@
         "name_": "WindowsPhone8",
         "preferences_": {},
         "isActive_": true,
-        "appName_": "blank",
-        "appID_": "not.yet.specified",
+        "appName_": "Blank Intel XDK Template",
+        "appID_": "xdk.intel.blank.template",
         "appAccess_": "*",
         "icons_": [],
         "splashes_": [],
@@ -155,7 +142,8 @@
         "excludedLibraries_": "",
         "cordovaCLIVersion_": "3.5",
         "crosswalkVersion_": "stable",
-        "appVersion_": "1.0.0.0"
+        "appVersion_": "0.0.0.1",
+        "appDescription_": "Use this template to start with a simple index.html file for creating mobile apps."
       }
     }
   }
