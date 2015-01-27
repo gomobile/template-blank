@@ -1,11 +1,12 @@
 {
-"reponame":"template-blank",
+"repoName":"template-blank",
 "title":"Simple Blank Template",
-"tooltip":"Use this template to start with a simple index.html file for creating mobile apps.",
-"description":"Use this template to start with a simple index.html file for creating mobile apps.",
+"tooltip":"Use this template to start with a simple index.html file for creating mobile web apps.",
+"description":"Use this template to start with a simple index.html file for creating mobile web apps.",
 "articleUrl":"http://software.intel.com/en-us/html5/articles/templates-to-get-started-with-html5-mobile-app-development",
-"visible":"false",
+"visible":"true",
 "keywords":["Blank Project"],
 "highlights" : [""],
-"relationship":"blank"
+"relationship":"blank",
+"projectTypeName": "com.intel.xdk.projecttype.webapp"
 }
