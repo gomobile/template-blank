@@ -27,6 +27,7 @@
         function onDeviceReady() {                                          // can be ignored in "hosted HTML5 web app"
             if( navigator.splashscreen && navigator.splashscreen.hide ) {   // Cordova hide splashscreen detected, use it
                 navigator.splashscreen.hide() ;
+            }
         }
         document.addEventListener("deviceready", onDeviceReady, false) ;    // can be ignored in "hosted HTML5 web app"
     </script>
