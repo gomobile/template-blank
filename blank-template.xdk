@@ -16,15 +16,7 @@
     "libraries": [],
     "serviceMethods": [],
     "cordovaPluginsDirectory": "plugins",
-    "cordovaPlugins": [
-      {
-        "id": "org.apache.cordova.splashscreen",
-        "version": "",
-        "selectedState": "Included",
-        "data": {},
-        "paramvals": {}
-      }
-    ],
+    "cordovaPlugins": [],
     "buildConfigurations": {
       "Android": {
         "platform_": "android",
