@@ -146,6 +146,7 @@
         "addlPermissions_": "",
         "excludedLibraries_": "",
         "appVersion_": "0.0.1",
+        "appAuthor_": "Intel XDK",
         "appDescription_": "Use this template to start with a simple index.html file for creating mobile web apps."
       },
       "Firefox": {
@@ -166,6 +167,7 @@
         "addlPermissions_": "",
         "excludedLibraries_": "",
         "appVersion_": "0.0.1",
+        "appAuthor_": "Intel XDK",
         "appDescription_": "Use this template to start with a simple index.html file for creating mobile web apps."
       },
       "Chrome": {
@@ -186,6 +188,7 @@
         "addlPermissions_": "",
         "excludedLibraries_": "",
         "appVersion_": "0.0.1",
+        "appAuthor_": "Intel XDK",
         "appDescription_": "Use this template to start with a simple index.html file for creating mobile web apps."
       },
       "Facebook": {
@@ -206,6 +209,7 @@
         "addlPermissions_": "",
         "excludedLibraries_": "",
         "appVersion_": "0.0.1",
+        "appAuthor_": "Intel XDK",
         "appDescription_": "Use this template to start with a simple index.html file for creating mobile web apps."
       }
     },

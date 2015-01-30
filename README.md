@@ -1,5 +1,7 @@
-Blank HTML Template for Building Packaged Mobile Web Apps.
-==========================================================
+Blank HTML Template for Building Packaged Mobile Web Apps
+=========================================================
+
+See [LICENSE.md](<LICENSE.md>) for license terms and conditions.
 
 This Intel XDK project has just an `index.html` file with the basic html, head
 and body tags required for building HTML5 mobile web apps. Use this template to
