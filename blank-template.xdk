@@ -42,8 +42,8 @@
         "cordovaCLIVersion_": "?",
         "crosswalkVersion_": "?",
         "appVersion_": "0.0.1",
+        "appAuthor_": "Intel XDK",
         "appDescription_": "Use this template to start with a simple index.html file for creating mobile web apps.",
-        "appAuthor_": "",
         "appVersionCode_": "1"
       },
       "Android-Crosswalk": {
@@ -56,7 +56,7 @@
         },
         "isActive_": true,
         "appName_": "Blank Intel XDK Template",
-        "appID_": "xdk.intel.blank.template",
+        "appID_": "xdk.intel.blank.template.crosswalk",
         "appAccess_": [
           {
             "origin": "*"
@@ -70,8 +70,8 @@
         "cordovaCLIVersion_": "?",
         "crosswalkVersion_": "?",
         "appVersion_": "0.0.1",
+        "appAuthor_": "Intel XDK",
         "appDescription_": "Use this template to start with a simple index.html file for creating mobile web apps.",
-        "appAuthor_": "",
         "appVersionCode_": "1"
       },
       "iOS": {
@@ -98,6 +98,7 @@
         "cordovaCLIVersion_": "?",
         "crosswalkVersion_": "?",
         "appVersion_": "0.0.1",
+        "appAuthor_": "Intel XDK",
         "appDescription_": "Use this template to start with a simple index.html file for creating mobile web apps."
       },
       "Windows8": {
@@ -124,6 +125,7 @@
         "cordovaCLIVersion_": "?",
         "crosswalkVersion_": "?",
         "appVersion_": "0.0.0.1",
+        "appAuthor_": "Intel XDK",
         "appDescription_": "Use this template to start with a simple index.html file for creating mobile web apps."
       },
       "WebApp": {
