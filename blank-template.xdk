@@ -29,11 +29,7 @@
         "isActive_": true,
         "appName_": "Blank Intel XDK Template",
         "appID_": "xdk.intel.blank.template",
-        "appAccess_": [
-          {
-            "origin": "*"
-          }
-        ],
+        "appAccess_": [],
         "icons_": [],
         "splashes_": [],
         "iosProvs_": [],
@@ -57,11 +53,7 @@
         "isActive_": true,
         "appName_": "Blank Intel XDK Template",
         "appID_": "xdk.intel.blank.template.crosswalk",
-        "appAccess_": [
-          {
-            "origin": "*"
-          }
-        ],
+        "appAccess_": [],
         "icons_": [],
         "splashes_": [],
         "iosProvs_": [],
@@ -85,11 +77,7 @@
         "isActive_": true,
         "appName_": "Blank Intel XDK Template",
         "appID_": "xdk.intel.blank.template",
-        "appAccess_": [
-          {
-            "origin": "*"
-          }
-        ],
+        "appAccess_": [],
         "icons_": [],
         "splashes_": [],
         "iosProvs_": [],
@@ -112,11 +100,7 @@
         "isActive_": true,
         "appName_": "Blank Intel XDK Template",
         "appID_": "xdk.intel.blank.template",
-        "appAccess_": [
-          {
-            "origin": "*"
-          }
-        ],
+        "appAccess_": [],
         "icons_": [],
         "splashes_": [],
         "iosProvs_": [],
@@ -136,11 +120,7 @@
         "isActive_": true,
         "appName_": "Blank Intel XDK Template",
         "appID_": "xdk.intel.blank.template",
-        "appAccess_": [
-          {
-            "origin": "*"
-          }
-        ],
+        "appAccess_": [],
         "icons_": [],
         "splashes_": [],
         "addlPermissions_": "",
@@ -157,11 +137,7 @@
         "isActive_": true,
         "appName_": "Blank Intel XDK Template",
         "appID_": "xdk.intel.blank.template",
-        "appAccess_": [
-          {
-            "origin": "*"
-          }
-        ],
+        "appAccess_": [],
         "icons_": [],
         "splashes_": [],
         "addlPermissions_": "",
@@ -178,11 +154,7 @@
         "isActive_": true,
         "appName_": "Blank Intel XDK Template",
         "appID_": "xdk.intel.blank.template",
-        "appAccess_": [
-          {
-            "origin": "*"
-          }
-        ],
+        "appAccess_": [],
         "icons_": [],
         "splashes_": [],
         "addlPermissions_": "",
@@ -199,11 +171,7 @@
         "isActive_": true,
         "appName_": "Blank Intel XDK Template",
         "appID_": "xdk.intel.blank.template",
-        "appAccess_": [
-          {
-            "origin": "*"
-          }
-        ],
+        "appAccess_": [],
         "icons_": [],
         "splashes_": [],
         "addlPermissions_": "",
