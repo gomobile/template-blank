@@ -3,9 +3,10 @@
 "title":"Simple Blank Template",
 "tooltip":"Use this template to start with a simple index.html file for creating mobile web apps.",
 "description":"Use this template to start with a simple index.html file for creating mobile web apps.",
-"articleUrl":"http://software.intel.com/en-us/html5/articles/templates-to-get-started-with-html5-mobile-app-development",
+"articleUrl":"https://github.com/gomobile/template-blank/blob/master/README.md",
 "visible":"true",
-"keywords":["Blank Project"],
+"type":"blankproject",
+"keywords":["Apache Cordova API","Blank Project"],
 "highlights" : [""],
 "relationship":"blank",
 "projectTypeName": "com.intel.xdk.projecttype.webapp"
