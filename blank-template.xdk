@@ -9,6 +9,7 @@
       "lastModifiedDate": 1411056323773,
       "creationDate": 1411056323773
     },
+    "XDK-app-designer": "false",
     "sourceDirectory": "www",
     "startFile": "index.html",
     "projectFiles": {},
@@ -24,7 +25,8 @@
         "name_": "Android",
         "preferences_": {
           "android-minSdkVersion": "10",
-          "android-targetSdkVersion": "19"
+          "android-targetSdkVersion": "19",
+          "android-installLocation": "auto"
         },
         "isActive_": true,
         "appName_": "Blank Intel XDK Template",
@@ -48,7 +50,8 @@
         "name_": "Android-Crosswalk",
         "preferences_": {
           "android-minSdkVersion": "14",
-          "android-targetSdkVersion": "19"
+          "android-targetSdkVersion": "19",
+          "android-installLocation": "auto"
         },
         "isActive_": true,
         "appName_": "Blank Intel XDK Template",
