@@ -1,6 +1,8 @@
 Blank HTML Template for Building Packaged Mobile Web Apps
 =========================================================
 
+Copyright © 2012-2015, Intel Corporation. All rights reserved.
+
 See [LICENSE.md](<LICENSE.md>) for license terms and conditions.
 
 This Intel XDK project has just an `index.html` file with the basic html, head
