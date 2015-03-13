@@ -1,13 +1,21 @@
 {
-"repoName":"template-blank",
-"title":"Simple Blank Template",
-"tooltip":"Use this template to start with a simple index.html file for creating mobile web apps.",
-"description":"Use this template to start with a simple index.html file for creating mobile web apps.",
-"articleUrl":"https://github.com/gomobile/template-blank/blob/master/README.md",
-"visible":"true",
-"type":"blankproject",
-"keywords":["Apache Cordova API","Blank Project"],
-"highlights" : [""],
-"relationship":"blank",
-"projectTypeName": "com.intel.xdk.projecttype.webapp"
+   "appName" : null,
+   "articleUrl" : "https://github.com/gomobile/template-blank/blob/master/README.md",
+   "appPreview" : null,
+   "relationship" : "blank",
+   "highlights" : [
+      ""
+   ],
+   "keywords" : [
+      "Apache Cordova API",
+      "Blank Project"
+   ],
+   "description" : "Use this template to start with a simple index.html file for creating mobile web apps.",
+   "projectTypeName" : "com.intel.xdk.projecttype.webapp",
+   "visible" : "true",
+   "type" : "blankproject",
+   "title" : "Simple Blank Template",
+   "relName" : null,
+   "repoName" : "template-blank",
+   "tooltip" : "Use this template to start with a simple index.html file for creating mobile web apps."
 }
