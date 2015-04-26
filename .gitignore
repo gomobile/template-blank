@@ -1,5 +1,11 @@
-intelxdk.config.*.xml
-!intelxdk.config.additions.xml
-*.mobileprovision
-*.xdke
-[Tt]humbs.db
+# ignore Cordova/PhoneGap CLI directories
+# in essence, everything but *.xdk file and www directory
+/*
+!/www
+!/config.xml
+!/README.md
+!/LICENSE.md
+!/intelxdk.config.additions.xml
+!/*.xdk
+!/.gitignore
+!/*.png
