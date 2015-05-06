@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
-
+<!--
+  * Please see the included README.md file for license terms and conditions.
+  -->
 <head>
     <title>Blank Standard HTML5 Web App Template</title>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
@@ -15,25 +17,14 @@
     </style>
 
     <!-- Uncomment "phantom" cordova.js script if you convert your "Standard HTML5" project into a "Cordova" project. -->
-    <!-- <script src="cordova.js"></script> -->
-
-    <script>
-        function onDeviceReady() {                                          // ignored by "Standard HTML5 web app"
-            if( navigator.splashscreen && navigator.splashscreen.hide ) {   // Cordova hide splashscreen detected
-                navigator.splashscreen.hide() ;
-            }
-        }
-        document.addEventListener("deviceready", onDeviceReady, false) ;    // ignored by "Standard HTML5 web app"
-    </script>
-
-    <!-- optional app.Ready event generator, instead of onDeviceReady, for Cordova packaged apps -->
-    <!-- <script src="xdk/init-dev.js"></script> -->
+    <!-- <script src="cordova.js"></script> -->          <!-- phantom library, needed for Cordova api calls, added during build -->
+    <script src="js/app.js"></script>           <!-- recommended location of your JavaScript code relative to other JS files -->
+    <script src="xdk/init-dev.js"></script>     <!-- normalizes device and document ready events, see README for details -->
 </head>
-
 
 <body>
 
+    <p>Hello, Intel XDK!</p>
+
 </body>
-
-
 </html>
