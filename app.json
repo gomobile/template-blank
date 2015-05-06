@@ -7,6 +7,8 @@
    "projectTypeName" : "com.intel.xdk.projecttype.webapp",
    "relationship" : "blank",
    "type" : "blankproject",
+   "section" : "templates",
+   "group" : "blank",
    "keywords" : [
       "Apache Cordova API",
       "Blank Project"
