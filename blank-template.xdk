@@ -5,7 +5,7 @@
       "type": "Blank Project",
       "projectTypeName": "com.intel.xdk.projecttype.webapp",
       "src": "",
-         "projectGuid": "00000000-0000-0000-0000-000000000000",
+      "projectGuid": "00000000-0000-0000-0000-000000000000",
       "lastModifiedDate": 1429208359216,
       "creationDate": 1411056323773
     },
@@ -19,45 +19,16 @@
     "cordovaPluginsDirectory": "plugins",
     "cordovaPlugins": [],
     "buildConfigurations": {
-      "Android": {
-        "platform_": "android",
-         "runtime_": "W3C on Cordova",
-        "name_": "Android",
-        "preferences_": {
-         "android-minSdkVersion": "10",
-          "android-targetSdkVersion": "19",
-          "android-installLocation": "auto"
-        },
-         "isActive_": true,
-        "appName_": "Blank Intel XDK Template",
-        "appID_": "xdk.intel.blank.template",
-        "appAccess_": [
-          {
-            "origin": "*"
-          }
-        ],
-        "icons_": [],
-        "splashes_": [],
-        "addlPermissions_": "",
-        "excludedLibraries_": "",
-        "iosProvs_": [],
-         "cordovaCLIVersion_": "?",
-         "crosswalkVersion_": "?",
-        "appVersion_": "0.0.1",
-         "appAuthor_": "Intel XDK",
-        "appDescription_": "Use this template to start with a simple index.html file for creating mobile web apps.",
-        "appVersionCode_": "1"
-      },
       "Android-Crosswalk": {
         "platform_": "android",
-         "runtime_": "W3C on Crosswalk",
+        "runtime_": "W3C on Crosswalk",
         "name_": "Android-Crosswalk",
         "preferences_": {
-         "android-minSdkVersion": "14",
+          "android-minSdkVersion": "14",
           "android-targetSdkVersion": "19",
           "android-installLocation": "auto"
         },
-         "isActive_": true,
+        "isActive_": true,
         "appName_": "Blank Intel XDK Template",
         "appID_": "xdk.intel.blank.template.crosswalk",
         "appAccess_": [
@@ -70,22 +41,51 @@
         "addlPermissions_": "",
         "excludedLibraries_": "",
         "iosProvs_": [],
-         "cordovaCLIVersion_": "?",
-         "crosswalkVersion_": "?",
+        "cordovaCLIVersion_": "?",
+        "crosswalkVersion_": "?",
         "appVersion_": "0.0.1",
-         "appAuthor_": "Intel XDK",
+        "appAuthor_": "Intel XDK",
+        "appDescription_": "Use this template to start with a simple index.html file for creating mobile web apps.",
+        "appVersionCode_": "1"
+      },
+      "Android": {
+        "platform_": "android",
+        "runtime_": "W3C on Cordova",
+        "name_": "Android",
+        "preferences_": {
+          "android-minSdkVersion": "10",
+          "android-targetSdkVersion": "19",
+          "android-installLocation": "auto"
+        },
+        "isActive_": true,
+        "appName_": "Blank Intel XDK Template",
+        "appID_": "xdk.intel.blank.template",
+        "appAccess_": [
+          {
+            "origin": "*"
+          }
+        ],
+        "icons_": [],
+        "splashes_": [],
+        "addlPermissions_": "",
+        "excludedLibraries_": "",
+        "iosProvs_": [],
+        "cordovaCLIVersion_": "?",
+        "crosswalkVersion_": "?",
+        "appVersion_": "0.0.1",
+        "appAuthor_": "Intel XDK",
         "appDescription_": "Use this template to start with a simple index.html file for creating mobile web apps.",
         "appVersionCode_": "1"
       },
       "iOS": {
         "platform_": "ios",
-         "runtime_": "W3C on Cordova",
+        "runtime_": "W3C on Cordova",
         "name_": "iOS",
         "preferences_": {
-         "ios-target": "6",
+          "ios-target": "6",
           "ios-configuration": "adhoc"
         },
-         "isActive_": true,
+        "isActive_": true,
         "appName_": "Blank Intel XDK Template",
         "appID_": "xdk.intel.blank.template",
         "appAccess_": [
@@ -98,21 +98,21 @@
         "addlPermissions_": "",
         "excludedLibraries_": "",
         "iosProvs_": [],
-         "cordovaCLIVersion_": "?",
-         "crosswalkVersion_": "?",
+        "cordovaCLIVersion_": "?",
+        "crosswalkVersion_": "?",
         "appVersion_": "0.0.1",
-         "appAuthor_": "Intel XDK",
+        "appAuthor_": "Intel XDK",
         "appDescription_": "Use this template to start with a simple index.html file for creating mobile web apps."
       },
       "Windows8": {
         "platform_": "windows8",
-         "runtime_": "W3C on Cordova",
+        "runtime_": "W3C on Cordova",
         "name_": "Windows8",
         "preferences_": {
           "windows-publisher-display-name": "",
           "windows-publisher-id": ""
         },
-         "isActive_": true,
+        "isActive_": true,
         "appName_": "Blank Intel XDK Template",
         "appID_": "xdk.intel.blank.template",
         "appAccess_": [
@@ -125,18 +125,18 @@
         "addlPermissions_": "",
         "excludedLibraries_": "",
         "iosProvs_": [],
-         "cordovaCLIVersion_": "?",
-         "crosswalkVersion_": "?",
+        "cordovaCLIVersion_": "?",
+        "crosswalkVersion_": "?",
         "appVersion_": "0.0.0.1",
-         "appAuthor_": "Intel XDK",
+        "appAuthor_": "Intel XDK",
         "appDescription_": "Use this template to start with a simple index.html file for creating mobile web apps."
       },
       "WebApp": {
         "platform_": "webapp",
-         "runtime_": "W3C",
+        "runtime_": "W3C",
         "name_": "WebApp",
         "preferences_": {},
-         "isActive_": true,
+        "isActive_": true,
         "appName_": "Blank Intel XDK Template",
         "appID_": "xdk.intel.blank.template",
         "appAccess_": [
@@ -149,36 +149,15 @@
         "addlPermissions_": "",
         "excludedLibraries_": "",
         "appVersion_": "0.0.1",
-         "appAuthor_": "Intel XDK",
-        "appDescription_": "Use this template to start with a simple index.html file for creating mobile web apps."
-      },
-      "Firefox": {
-        "platform_": "firefoxos",
-         "runtime_": "W3C on Firefox OS",
-        "name_": "Firefox",
-        "preferences_": {},
-         "isActive_": true,
-        "appName_": "Blank Intel XDK Template",
-        "appID_": "xdk.intel.blank.template",
-        "appAccess_": [
-          {
-            "origin": "*"
-          }
-        ],
-        "icons_": [],
-        "splashes_": [],
-        "addlPermissions_": "",
-        "excludedLibraries_": "",
-        "appVersion_": "0.0.1",
-         "appAuthor_": "Intel XDK",
+        "appAuthor_": "Intel XDK",
         "appDescription_": "Use this template to start with a simple index.html file for creating mobile web apps."
       },
       "Chrome": {
         "platform_": "chromeos",
-         "runtime_": "W3C on Chrome OS",
+        "runtime_": "W3C on Chrome OS",
         "name_": "Chrome",
         "preferences_": {},
-         "isActive_": true,
+        "isActive_": true,
         "appName_": "Blank Intel XDK Template",
         "appID_": "xdk.intel.blank.template",
         "appAccess_": [
@@ -191,15 +170,36 @@
         "addlPermissions_": "",
         "excludedLibraries_": "",
         "appVersion_": "0.0.1",
-         "appAuthor_": "Intel XDK",
+        "appAuthor_": "Intel XDK",
+        "appDescription_": "Use this template to start with a simple index.html file for creating mobile web apps."
+      },
+      "Firefox": {
+        "platform_": "firefoxos",
+        "runtime_": "W3C on Firefox OS",
+        "name_": "Firefox",
+        "preferences_": {},
+        "isActive_": true,
+        "appName_": "Blank Intel XDK Template",
+        "appID_": "xdk.intel.blank.template",
+        "appAccess_": [
+          {
+            "origin": "*"
+          }
+        ],
+        "icons_": [],
+        "splashes_": [],
+        "addlPermissions_": "",
+        "excludedLibraries_": "",
+        "appVersion_": "0.0.1",
+        "appAuthor_": "Intel XDK",
         "appDescription_": "Use this template to start with a simple index.html file for creating mobile web apps."
       },
       "Facebook": {
         "platform_": "facebook",
-         "runtime_": "W3C on Facebook",
+        "runtime_": "W3C on Facebook",
         "name_": "Facebook",
         "preferences_": {},
-         "isActive_": true,
+        "isActive_": true,
         "appName_": "Blank Intel XDK Template",
         "appID_": "xdk.intel.blank.template",
         "appAccess_": [
@@ -212,12 +212,12 @@
         "addlPermissions_": "",
         "excludedLibraries_": "",
         "appVersion_": "0.0.1",
-         "appAuthor_": "Intel XDK",
+        "appAuthor_": "Intel XDK",
         "appDescription_": "Use this template to start with a simple index.html file for creating mobile web apps."
       }
     },
-    "gameAssetDirectory": "asset",
-    "gameMetadata": {},
-    "projectTags": []
+  "gameAssetDirectory": "asset",
+  "gameMetadata": {},
+  "projectTags": []
   }
 }
