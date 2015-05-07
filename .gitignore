@@ -1,8 +1,7 @@
 # ignore "excess" files and directories
-# in essence, ignore everything but *.xdk file and www, docs and plugins directories
+# in essence, ignore everything but *.xdk file and www and docs directories
 /*
 !/www
-!/plugins
 !/docs
 !/config.xml
 !/README.md
