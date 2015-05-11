@@ -20,8 +20,8 @@ to include options that control your *packaged Cordova web app* builds. For
 example, you can set the splash screen display time for a packaged Android or
 Crosswalk Cordova app using this file.
 
-If you convert (or upgrade) your "Standard HTML5 Project" into a "Standard 
-HTML5 + Cordova Project" you must comment out the cordova.js script line 
+If you convert (or upgrade) your "Standard HTML5 Project" into a "Standard
+HTML5 + Cordova Project" you must comment out the noted script files
 inside the provided index.html file.
 
 The `cordova.js` script will be needed if you choose to convert your project to
