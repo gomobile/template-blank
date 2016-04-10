@@ -25,7 +25,7 @@
                 "name_": "Android-Crosswalk",
                 "preferences_": {
                     "android-minSdkVersion": "14",
-                    "android-targetSdkVersion": "23",
+                    "android-targetSdkVersion": "21",
                     "android-installLocation": "auto"
                 },
                 "isActive_": true,
@@ -65,7 +65,7 @@
                 "name_": "Android",
                 "preferences_": {
                     "android-minSdkVersion": "14",
-                    "android-targetSdkVersion": "23",
+                    "android-targetSdkVersion": "21",
                     "android-installLocation": "auto"
                 },
                 "isActive_": true,
