@@ -4,12 +4,10 @@
         "creationData": {
             "type": "Blank Project",
             "projectTypeName": "com.intel.xdk.projecttype.webapp",
-            "src": "",
             "projectGuid": "00000000-0000-0000-0000-000000000000",
             "lastModifiedDate": 1429208359216,
             "creationDate": 1411056323773
         },
-        "XDK-app-designer": "false",
         "sourceDirectory": "www",
         "startFile": "index.html",
         "projectFiles": {},
